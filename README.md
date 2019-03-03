@@ -1,7 +1,7 @@
 # go-ebrest 
-[![Go Report Card](https://goreportcard.com/badge/github.com/Bolzer/easybillRest)](https://goreportcard.com/report/github.com/bolZer/easybillRest)
-[![GoDoc Reference](https://godoc.org/github.com/BolZer/easybillRest?status.svg)](https://godoc.org/github.com/BolZer/easybillRest)
-[![Build Status](https://travis-ci.org/BolZer/easybillRest.svg?branch=master)](https://travis-ci.org/BolZer/easybillRest)
+[![Go Report Card](https://goreportcard.com/badge/github.com/Bolzer/go-ebrest )](https://goreportcard.com/report/github.com/bolZer/go-ebrest )
+[![GoDoc Reference](https://godoc.org/github.com/BolZer/go-ebrest?status.svg)](https://godoc.org/github.com/BolZer/go-ebrest)
+[![Build Status](https://travis-ci.org/BolZer/go-ebrest.svg?branch=master)](https://travis-ci.org/BolZer/go-ebrest)
 [![Generic badge](https://img.shields.io/badge/Version-0.1.0-important.svg)]()
 
 `go-ebrest` is a library to work with the easybill REST API (https://www.easybill.de/api/) written in GO.
